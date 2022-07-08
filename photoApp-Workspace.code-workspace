@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\photoApp-Backend"
+        },
+        {
+            "path": "..\\photoApp-Mobile"
+        }
+    ],
+    "settings": {}
+}
